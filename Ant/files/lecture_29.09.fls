@@ -1,0 +1,9 @@
+PWD /Users/user/Documents/latex/abstracts/3rd course/Ant/files
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/user/Documents/latex/abstracts/3rd course/Ant/files/lecture 29.09.tex
+OUTPUT /Users/user/Documents/latex/abstracts/3rd course/Ant/files/lecture_29.09.log
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

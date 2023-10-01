@@ -1,0 +1,5 @@
+PWD /Users/user/Documents/latex/abstracts/3rd course/Ant
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+OUTPUT /Users/user/Documents/latex/abstracts/3rd course/Ant/lecture_29.09.log
